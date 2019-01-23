@@ -1,5 +1,5 @@
 {
-  "name": "hello-world-package",
+  "name": "hello-world-npm-package",
   "version": "0.1.0",
   "description": "As simple as it gets",
   "main": "./dist/index.js",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/michael-spengler/hello-world-package"
+    "url": "https://github.com/michael-spengler/hello-world-npm-package"
   },
   "keywords": [
     "Hello",
