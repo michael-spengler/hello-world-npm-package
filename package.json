@@ -1,0 +1,40 @@
+{
+  "name": "hello-world-package",
+  "version": "0.1.0",
+  "description": "As simple as it gets",
+  "main": "./dist/index.js",
+  "typings": "./dist/index.js",
+  "scripts": {
+    "test": "jest",
+    "test:cov": "jest --coverage",
+    "tslint": "tslint -p ./",
+    "bp": "tsc && npm publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/michael-spengler/hello-world-package"
+  },
+  "keywords": [
+    "Hello",
+    "World",
+    "Package"
+  ],
+  "author": "Michael Spengler",
+  "license": "MIT",
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm run tslint && npm run test:cov"
+    }
+  },
+  "dependencies": {
+    "@types/jest": "^21.0.0",
+    "@types/node": "^10.12.18",
+    "jest": "^23.6.0",
+    "ts-jest": "^23.10.5"
+  },
+  "devDependencies": {
+    "husky": "^1.3.1",
+    "tslint": "^5.12.1",
+    "typescript": "^3.2.4"
+  }
+}
