@@ -1,4 +1,4 @@
-# Request With Buffer
+# Hello World Package
 This is a template. Create and publish your own npm module by forking it.
 
 
