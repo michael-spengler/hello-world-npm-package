@@ -2,7 +2,7 @@ import { HelloWorldProvider } from "./hello-world-provider"
 
 let helloWorldProvider: HelloWorldProvider
 
-describe("RequestService", () => {
+describe("HelloWorldProvider", () => {
     beforeEach(async () => {
         helloWorldProvider = new HelloWorldProvider()
     })

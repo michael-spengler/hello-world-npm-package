@@ -2,7 +2,7 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 const hello_world_provider_1 = require("./hello-world-provider");
 let helloWorldProvider;
-describe("RequestService", () => {
+describe("HelloWorldProvider", () => {
     beforeEach(async () => {
         helloWorldProvider = new hello_world_provider_1.HelloWorldProvider();
     });

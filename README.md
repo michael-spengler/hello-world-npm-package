@@ -1,5 +1,5 @@
 # Hello World NPM Package
-This is a template. Create and publish your own npm module by forking it.
+This is a template. Create and publish your own npm module by [forking it](https://github.com/michael-spengler/hello-world-npm-package/fork).
 
 
 ## Usage Example
@@ -10,12 +10,12 @@ This is a template. Create and publish your own npm module by forking it.
 
     const result: string = helloWorldProvider.provideHelloWorld()
 
-    console.lot(result)
+    console.log(result)
 
 
 
 ## Feedback
-If you find any issues or want to share improvement proposals in general feel free to open an issue [here](https://github.com/michael-spengler/hello-world-npm-package).
+If you find any issues or want to share improvement proposals in general feel free to open an issue [here](https://github.com/michael-spengler/hello-world-npm-package/issues).
 
 
 ## Contribute

@@ -1,7 +1,7 @@
 {
   "name": "hello-world-npm-package",
-  "version": "0.1.0",
-  "description": "As simple as it gets",
+  "version": "0.1.1",
+  "description": "This is a template repository. You can easily create and publish your own npm module by forking this repository.",
   "main": "./dist/index.js",
   "typings": "./dist/index.js",
   "scripts": {
@@ -15,9 +15,8 @@
     "url": "https://github.com/michael-spengler/hello-world-npm-package"
   },
   "keywords": [
-    "Hello",
-    "World",
-    "Package"
+    "Hello World Package",
+    "Node Module Template Package"
   ],
   "author": "Michael Spengler",
   "license": "MIT",
@@ -27,9 +26,10 @@
     }
   },
   "dependencies": {
-    "@types/jest": "^21.0.0",
+    "@types/jest": "^23.3.13",
     "@types/node": "^10.12.18",
-    "jest": "^23.6.0",
+    "jest": "^24.0.0",
+    "retext": "^6.0.1",
     "ts-jest": "^23.10.5"
   },
   "devDependencies": {
