@@ -3,7 +3,7 @@ This is a template. Create and publish your own npm module by [forking it](https
 
 
 ## Usage Example
-Please check my executable specifications / documentation [here](https://github.com/monique-schlaumann/homo-digitalis/blob/master/src/homo-digitalis.spec.ts).
+Please check my executable specifications / documentation [here](https://github.com/michael-spengler/hello-world-npm-package/blob/master/src/hello-world-provider.spec.ts).
 
 
 
