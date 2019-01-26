@@ -1,6 +1,6 @@
 {
   "name": "hello-world-npm-package",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "This is a template repository. You can easily create and publish your own npm module by forking this repository.",
   "main": "./dist/index.js",
   "typings": "./dist/index.js",
@@ -29,7 +29,6 @@
     "@types/jest": "^23.3.13",
     "@types/node": "^10.12.18",
     "jest": "^24.0.0",
-    "retext": "^6.0.1",
     "ts-jest": "^23.10.5"
   },
   "devDependencies": {
