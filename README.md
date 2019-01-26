@@ -3,14 +3,7 @@ This is a template. Create and publish your own npm module by [forking it](https
 
 
 ## Usage Example
-
-    import { HelloWorldProvider } from "hello-world-provider"
-
-    const helloWorldProvider = new HelloWorldProvider()
-
-    const result: string = helloWorldProvider.provideHelloWorld()
-
-    console.log(result)
+Please check my executable specifications / documentation [here](https://github.com/monique-schlaumann/homo-digitalis/blob/master/src/homo-digitalis.spec.ts).
 
 
 
