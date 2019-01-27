@@ -8,8 +8,5 @@ Please check my executable specifications / documentation [here](https://github.
 
 
 ## Feedback
-If you find any issues or want to share improvement proposals in general feel free to open an issue [here](https://github.com/michael-spengler/hello-world-npm-package/issues).
+If you find any issues or want to share improvement proposals in general feel free to open an issue or a pull request [here](https://github.com/michael-spengler/hello-world-npm-package).
 
-
-## Contribute
-I am interested in save and useful enhancements. Feel free to create [Pull Requests](https://github.com/michael-spengler/hello-world-npm-package/pulls) on my Repository.
