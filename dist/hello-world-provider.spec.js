@@ -1,9 +1,10 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-const hello_world_provider_1 = require("./hello-world-provider");
+const _1 = require("."); // Users of the module at hand should write
+// import { HelloWorldProvider } from "hello-world-npm-package"
 describe("HelloWorldProvider", () => {
     it("should provide hello world", async () => {
-        const helloWorldProvider = new hello_world_provider_1.HelloWorldProvider();
+        const helloWorldProvider = new _1.HelloWorldProvider();
         expect(helloWorldProvider.provideHelloWorld())
             .toEqual("Hello World");
     });

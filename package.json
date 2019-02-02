@@ -1,6 +1,6 @@
 {
   "name": "hello-world-npm-package",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "description": "This is a template repository. You can easily create and publish your own npm module by forking this repository.",
   "main": "./dist/index.js",
   "typings": "./dist/index.js",
